@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @SpEcHIDe
+# (c) @Professor_Here_Money_heist
 
 from pyrogram import Client, __version__
 
