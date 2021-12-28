@@ -1,12 +1,9 @@
-# Auto Filter Bot primier
+# Auto Filter Bot
 
 <p align="center">
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
 <P align="center">
-   <a href="https://youtu.be/zztf40dmEbI">
-
-🎀 Whatch deploying video 🎀
 .
 <i>
       
@@ -24,7 +21,7 @@
 ```✤🅵🅾🆁 🅼🅾🆁🅴 🅷🅴🅻🅿 🅹🅾🅸🅽 🆃🅶/🆆🅰 🅶🆁🅾🆄🅿🆂✤```
 ## Deploy
 
-<a href="https://heroku.com/deploy?template=https://github.com/LXR-YOUTUBER-AMAL/auto-filter-bot-premier/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Mihika7/Mihi-auto/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 <i>
@@ -40,7 +37,7 @@
 
 ##### SUPPORT GROUPS
 
-[![SAwalogo](https://telegra.ph/file/0da96d2be9ac508c2e082.png)](https://chat.whatsapp.com/CBKnU789OGpBeCUTsWUs2y)
+[![SAwalogo](https://te.legra.ph/file/fbf2fdcbec2587957392a.jpg)]
   <div align="center">
 
 
