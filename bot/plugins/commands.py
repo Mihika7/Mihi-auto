@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG
+# (c) @Professor_Here_Money_heist
 
 from pyrogram import filters, Client
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/LXRBOTSGROUP'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/LXR-YOUTUBER-AMAL/auto-filter-bot-premier')
+        InlineKeyboardButton('Developers', url='https://t.me/all_web_series_mihika'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Mihika7/Mihi-auto')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/LXRYOUTUBERYT')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/all_web_series_mihika')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
