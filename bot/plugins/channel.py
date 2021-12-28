@@ -96,7 +96,7 @@ async def connect(bot: Bot, update):
         
         for typ in type_list:
 
-            async for msgs in bot.USER.search_messages(channel_id,filter=typ): #Thanks To @PrgOfficial For Suggesting
+            async for msgs in bot.USER.search_messages(channel_id,filter=typ): #Thanks To @Professor_Here_Money_heist For Suggesting
                 
                 # Using 'if elif' instead of 'or' to determine 'file_type'
                 # Better Way? Make A PR
