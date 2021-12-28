@@ -37,7 +37,7 @@
 
 ##### SUPPORT GROUPS
 
-[![SAwalogo](https://t.me/+tKh_9OVnisNlNTll)]
+[![SAwalogo](https://te.legra.ph/file/fbf2fdcbec2587957392a.jpg)]
   <div align="center">
 
 
