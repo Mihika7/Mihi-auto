@@ -21,7 +21,7 @@
 ```✤🅵🅾🆁 🅼🅾🆁🅴 🅷🅴🅻🅿 🅹🅾🅸🅽 🆃🅶/🆆🅰 🅶🆁🅾🆄🅿🆂✤```
 ## Deploy
 
-<a href="https://heroku.com/deploy?template=https://github.com/Mihika7/Mihi-auto/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Mihika7/Mihi-auto">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 <i>
