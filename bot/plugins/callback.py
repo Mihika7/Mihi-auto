@@ -1680,8 +1680,8 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "about": 
         buttons = [[
-            InlineKeyboardButton('👤 LXR YOUTUBER AMAL', url='https://t.me/all_web_series_mihika'),
-            InlineKeyboardButton('Support 👤', url='https://t.me/all_web_series_mihika')
+            InlineKeyboardButton(Professors='https://t.me/all_web_series_mihika'),
+            
         ],[
             InlineKeyboardButton('🍂 REPO 🍂', url='https://t.me/all_web_series_mihika')
         ],[
