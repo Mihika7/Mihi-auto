@@ -904,7 +904,7 @@ async def cb_toggle(bot, update: CallbackQuery):
     
     text+="\n<i>Below Buttons Will Toggle Respective Media Types As Enabled Or Disabled....\n</i>"
     text+="<i>This Will Take Into Action As Soon As You Change Them....</i>"
-    
+   
     buttons.append([InlineKeyboardButton(f"Video Index : {v_e}", callback_data=vcb_data)])
     buttons.append([InlineKeyboardButton(f"Audio Index : {a_e}", callback_data=acb_data)])
     buttons.append([InlineKeyboardButton(f"Document Index : {d_e}", callback_data=dcb_data)])
@@ -1639,15 +1639,15 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('👨‍💼𝙼𝚢 𝙳𝚎𝚟', url='https://t.me/malayalammoviesmmms'),
-            InlineKeyboardButton('𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎🧾', url ='https://t.me/LXRBOTSGROUP')
+            InlineKeyboardButton('👨‍💼𝙼𝚢 𝙳𝚎𝚟', url='https://t.me/all_web_series_mihika'),
+            InlineKeyboardButton('𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎🧾', url ='https://t.me/all_web_series_mihika')
         ],[
             InlineKeyboardButton('⚙️𝙷𝚎𝚕𝚙⚙️', callback_data="help")
         ],[
-            InlineKeyboardButton('🗣️𝙰𝚗𝚢 𝙳𝚘𝚞𝚋𝚝', url='https://t.me/LXRBOTSGROUP'),
-            InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜🤖', url='https://t.me/LXRYOUTUBERYT')
+            InlineKeyboardButton('🗣️𝙰𝚗𝚢 𝙳𝚘𝚞𝚋𝚝', url='https://t.me/all_web_series_mihika'),
+            InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜🤖', url='https://t.me/all_web_series_mihika')
         ],[
-            InlineKeyboardButton('🍂 REPO 🍂️', url='https://t.me/LXRBOTSGROUP')
+            InlineKeyboardButton('🍂 REPO 🍂️', url='https://t.me/all_web_series_mihika')
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1680,10 +1680,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "about": 
         buttons = [[
-            InlineKeyboardButton('👤 LXR YOUTUBER AMAL', url='https://t.me/LXRBOTSGROUP'),
-            InlineKeyboardButton('Support 👤', url='https://t.me/LXRBOTSGROUP')
+            InlineKeyboardButton('👤 LXR YOUTUBER AMAL', url='https://t.me/all_web_series_mihika'),
+            InlineKeyboardButton('Support 👤', url='https://t.me/all_web_series_mihika')
         ],[
-            InlineKeyboardButton('🍂 REPO 🍂', url='https://t.me/LXRYOUTUBERYT')
+            InlineKeyboardButton('🍂 REPO 🍂', url='https://t.me/all_web_series_mihika')
         ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
             InlineKeyboardButton('Close 🔐', callback_data='close')
