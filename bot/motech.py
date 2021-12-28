@@ -1,4 +1,4 @@
-"""eunning Code moTechYT
+"""eunning Code Professor_Here_Money_heist
 editing By Pr0fess0r 99
 gnu affero general public license v3.0
 permissions of this strongest copyleft license
@@ -11,9 +11,9 @@ an express grant of patent rights.
 when a modified version is used to provide a service
 over a network, the complete source code of the modified
 version must be made available.
-»https://github.com/AlbertEinsteinTG»https://t.me/LXRYOUTUBERYTyour main Channel Added from Heroku
+»https://github.com/Mihika7»https://t.me/all_web_series_mihikayour main Channel Added from Heroku
 update"""
-MT_BOT_UPDATES = "https://t.me/LXRYOUTUBERYT" # eg
+MT_BOT_UPDATES = "https://t.me/all_web_series_mihika" # eg
 """your Main Channel"""
-BOT_UPDATES = "https://t.me/LXRBOTSGROUP" # eg
+BOT_UPDATES = "https://t.me/all_web_series_mihika" # eg
 
